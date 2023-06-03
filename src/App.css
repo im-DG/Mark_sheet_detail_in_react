@@ -1,0 +1,256 @@
+
+.logo{
+  width:500px;
+  display:flex;
+}
+.logo h2{
+  margin-left:30px;
+  font-style: italic;
+}
+.logo img {
+  height: 50%;
+  width: 30%;
+  border-radius:0.4rem;
+  
+}
+.sushil{
+  margin:20px;
+}
+.sushil button{
+  margin-right: 30px;
+
+}
+
+header {
+  background-color:skyblue;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius:0.30rem;
+}
+
+#fotc{
+  /* list-style: none; */
+  width: 200px;
+  background-color: aqua;
+}
+
+
+.header-container {
+  background-color: #2530a5;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-radius:0.3rem;
+}
+
+.header-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #1d1d1d;
+}
+
+.header-info {
+  display: flex;
+  align-items: center;
+}
+
+.header-item {
+  margin-left: 20px;
+
+  color: aqua;
+}
+
+.header-heading {
+  font-weight: bold;
+  color: aqua;
+}
+
+/* Add animation */
+.header-container {
+  animation: fadeIn 2s ease-in-out;
+}
+
+
+/*css for details*/
+
+
+.details-modal {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+
+.details-content {
+  background-color: lightgreen;
+  padding: 20px;
+  border-radius: 4px;
+  max-width: 600px;
+  max-height: 600px;
+  overflow-y: auto;
+}
+
+.details-close {
+  position: relative;
+  top: 10px;
+  right: 10px;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+
+
+
+
+/* Styles for the social media icons */
+.social-media-nav {
+  margin-top: 2rem;
+}
+
+.social-media-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.social-media-list li {
+  list-style: none;
+  margin-right: 1.5rem;
+}
+
+.fontawesome {
+  font-size: 2rem;
+  color: #ffffff;
+  transition: color 0.3s ease-in-out;
+}
+
+.fontawesome:hover {
+  color: #5d5d5d;
+}
+
+/* Styles for the copyright text */
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  background-color: #1d1d1d;
+  padding: 2rem;
+  color: #ffffff;
+}
+
+p {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+
+/*for selected row*/
+
+.selected{
+  background-color: yellow !important
+
+}
+
+
+/*  css for chart*/
+.stat{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.chart-container {
+  width: 50% !important;
+}
+
+button.show {
+  background-color: green; 
+  color: #ddd;
+  margin-top: 20px;
+  border-radius: 0.30rem;
+}
+
+
+input[type="text" i]{
+  margin-right: 5px;
+}
+/* css for table*/
+
+table {
+  
+  border-collapse: collapse;
+  width: 100%;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  
+}
+tr:hover{
+  background-color: purple !important;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+  
+  
+}
+
+th {
+  /* background-color: #f2f2f2; */
+  background-color: lightgreen;
+  
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+button {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+button.pass {
+  background-color: green;
+  color: white;
+}
+
+button.fail {
+  background-color: red;
+  color: white;
+}
+
+button.all {
+  background-color: blue;
+  color: white;
+}
+button.reset{
+  background-color:yellow;
+  color: black;
+}
+
+.details-button{
+  background-color:yellowgreen ;
+}
+

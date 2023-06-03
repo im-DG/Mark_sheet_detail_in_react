@@ -1,0 +1,261 @@
+[
+    {
+      "id": 1,
+      "name": "Rajesh Kumar",
+      "ticket_number": "T1234",
+      
+      "ticket_topic": "Machine Learning",
+      "exam_grade": 8.5,
+      "rating_grade": 4,
+
+      "comments": [
+        "Great understanding of ML concepts",
+        "Impressive work on the project",
+        "Excellent critical thinking skills"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Anjali Singh",
+      "ticket_number": "T2345",
+      "ticket_topic": "Data Analysis",
+      "exam_grade": 9.2,
+      "rating_grade": 5,
+      "comments": [
+        "Superb data analysis skills",
+        "Clear and concise presentation",
+        "Very impressive overall"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Amit Gupta",
+      "ticket_number": "T3456",
+      "ticket_topic": "Web Development",
+      "exam_grade": 4,
+      "rating_grade": 2,
+      "comments": [
+        "Solid coding skills",
+        "Good understanding of web development concepts",
+        "Could improve on project organization"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sneha Sharma",
+      "ticket_number": "T4567",
+      "ticket_topic": "Machine Learning",
+      "exam_grade": 3,
+      "rating_grade": 2,
+      "comments": [
+        "Not good in this subject Need to work Hard"
+        
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vikram Singh",
+      "ticket_number": "T5678",
+      "ticket_topic": "Machine Learning",
+      "exam_grade": 9,
+      "rating_grade": 5,
+      "comments": [
+        "Outstanding work on AI project",
+        "Excellent understanding of ML algorithms",
+        "Impressive overall performance"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Pooja Patel",
+      "ticket_number": "T6789",
+      "ticket_topic": "Web Development",
+      "exam_grade": 2,
+      "rating_grade": 1,
+      "comments": [
+        "Not good in this subject Need to work Hard"
+       
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Saurabh Singh",
+      "ticket_number": "T7890",
+      "ticket_topic": "Cybersecurity",
+      "exam_grade": 8,
+      "rating_grade": 4,
+      "comments": [
+        "Excellent understanding of cybersecurity concepts",
+        "Great work on the final project",
+        "Very impressive overall"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Kavita Sharma",
+      "ticket_number": "T8901",
+      "ticket_topic": "Web Development",
+      "exam_grade": 2,
+      "rating_grade": 1,
+      "comments": [
+        "Not good in this subject Need to work Hard"
+        
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Nitin Gupta",
+      "ticket_number": "T9012",
+      "ticket_topic": "Web Development",
+      "exam_grade":6,
+      "rating_grade": 4,
+      "comments": [
+        "Good understanding of software engineering concepts",
+        "Solid work on the group project",
+        "Could improve on code readability and documentation"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Divya Singh",
+      "ticket_number": "T0123",
+      "ticket_topic": "Web Development",
+      "exam_grade": 8,
+      "rating_grade": 4,
+      "comments": [
+        "Good design skills for websites",
+        "Solid understanding of HTML and CSS",
+        "Could benefit from more attention to detail"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Aryan Patel",
+      "ticket_number": "T1235",
+      "ticket_topic": "Data Analysis",
+      "exam_grade": 9,
+      "rating_grade": 5,
+      "comments": [
+        "Good understanding of cloud computing concepts",
+        "Could benefit from more hands-on experience",
+        "Some areas for improvement in the final project"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Radha Gupta",
+      "ticket_number": "T2346",
+      "ticket_topic": "Cybersecurity",
+      "exam_grade": 2,
+      "rating_grade": 5,
+      "comments": [
+        "Outstanding work on NLP project",
+        "Excellent understanding of text processing techniques",
+        "Impressive overall performance"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Sanjay Sharma",
+      "ticket_number": "T3457",
+      "ticket_topic": "Data Analysis",
+      "exam_grade": 3,
+      "rating_grade": 4,
+      "comments": [
+        "Not good in this subject Need to work Hard"
+      
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Priya Singh",
+      "ticket_number": "T4568",
+      "ticket_topic": "Web Development",
+      "exam_grade": 7,
+      "rating_grade": 3,
+      "comments": [
+        "Good coding skills for mobile games",
+        "Could benefit from more attention to game design",
+        "Some areas for improvement in project implementation"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Rohit Patel",
+      "ticket_number": "T5679",
+      "ticket_topic": "Cybersecurity",
+      "exam_grade": 9,
+      "rating_grade": 4,
+      "comments": [
+        "Excellent work on computer vision project",
+        "Solid understanding of image processing techniques",
+        "Could benefit from more thorough testing"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Neha Gupta",
+      "ticket_number": "T6790",
+      "ticket_topic": "Cybersecurity",
+      "exam_grade": 10,
+      "rating_grade": 5,
+      "comments": [
+        "Not good in this subject Need to work Hard"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Ankit Singh",
+      "ticket_number": "T7901",
+      "ticket_topic": "Cybersecurity",
+      "exam_grade": 8,
+      "rating_grade": 4,
+      "comments": [
+        "Good understanding of data warehousing concepts",
+        "Solid work on the final project",
+        "Could benefit from more detailed documentation"
+      ]
+  },
+  {
+    "id": 18,
+    "name": "Sneha Patel",
+    "ticket_number": "T9012",
+    "ticket_topic": "Operating Systems",
+    "exam_grade": 8,
+    "rating_grade": 4,
+    "comments": [
+      "Solid understanding of OS concepts",
+      "Good work on the OS simulation project",
+      "Could benefit from more detailed analysis"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Anand Gupta",
+    "ticket_number": "T0123",
+    "ticket_topic": "Operating Systems",
+    "exam_grade": 9,
+    "rating_grade": 5,
+    "comments": [
+      "Excellent work on IoT project",
+      "Solid understanding of sensor networks",
+      "Impressive overall performance"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Krishna Singh",
+    "ticket_number": "T1234",
+    "ticket_topic": "Machine Learning",
+    "exam_grade": 9,
+    "rating_grade": 5,
+    "comments": [
+      "Outstanding work on ML project",
+      "Excellent understanding of statistical modeling techniques",
+      "Impressive overall performance"
+    ]
+  }
+]
+   
+
+  
